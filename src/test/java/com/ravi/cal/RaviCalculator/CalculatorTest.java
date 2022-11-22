@@ -10,7 +10,7 @@ public class CalculatorTest {
 	
     @Test
     public void twoAndThreeIsFive() throws Exception {
-    	assertEquals(cal.addFucn(2, 3),5);
+    	assertEquals(cal.addFucn(2, 3),10);
     }
 
     @Test
